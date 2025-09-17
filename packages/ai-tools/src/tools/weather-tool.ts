@@ -1,4 +1,4 @@
-import { AcmeTime } from '@acme/shared';
+import { AcmeTime } from '@acme/shared/time';
 import { createTool } from '@mastra/core/tools';
 import { z } from 'zod';
 

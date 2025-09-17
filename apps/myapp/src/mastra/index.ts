@@ -8,6 +8,5 @@ config({ path: path.resolve(__dirname, '../../../../.env'), quiet: true });
 export const mastra = new Mastra({
   agents: { weatherAgent },
   bundler: {
-    transpilePackages: ['@acme/ai-tools', '@acme/shared'],
   },
 });

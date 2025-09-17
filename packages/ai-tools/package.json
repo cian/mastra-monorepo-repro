@@ -16,7 +16,7 @@
   },
   "dependencies": {
     "@acme/shared": "workspace:*",
-    "@mastra/core": "^0.15.2",
+    "@mastra/core": "alpha",
     "zod": "^3"
   }
 }
